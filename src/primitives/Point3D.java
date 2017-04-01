@@ -6,7 +6,7 @@ package primitives;
 public class Point3D extends Point2D  {
 
     Point2D P2;
-    Coordinate Z;
+    Coordinate Z1;
 
 
     public Point3D(Coordinate x ,Coordinate y , Coordinate z) {
